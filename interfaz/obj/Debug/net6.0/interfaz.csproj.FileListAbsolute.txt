@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\bin\Debug\net6.0\interfaz.exe
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\bin\Debug\net6.0\interfaz.deps.json
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\bin\Debug\net6.0\interfaz.runtimeconfig.json
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\bin\Debug\net6.0\interfaz.dll
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\bin\Debug\net6.0\interfaz.pdb
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\obj\Debug\net6.0\interfaz.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\obj\Debug\net6.0\interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\obj\Debug\net6.0\interfaz.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\obj\Debug\net6.0\interfaz.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\obj\Debug\net6.0\interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\obj\Debug\net6.0\interfaz.dll
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\obj\Debug\net6.0\refint\interfaz.dll
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\obj\Debug\net6.0\interfaz.pdb
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\obj\Debug\net6.0\interfaz.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\3 semestre ingenieria\progra I\interfaz\obj\Debug\net6.0\ref\interfaz.dll
